@@ -29,3 +29,7 @@ Health policies have a significant number of claims, indicating a high demand fo
 Elderly individuals have the highest claim amounts, suggesting they might require more medical attention.
 Many claims are still pending, indicating a potential backlog in the claims processing system.
 
+#Dashboard
+![image](https://github.com/user-attachments/assets/6fcbbd4f-7783-4884-b753-831d162ebad2)
+
+
